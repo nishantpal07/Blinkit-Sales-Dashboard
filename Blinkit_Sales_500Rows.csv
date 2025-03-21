@@ -1,0 +1,501 @@
+Order ID,Order Date,Product Name,Category,Price,Quantity,Total Amount,City,Delivery Time (min)
+BLK001,16-11-2024,Juice,Beverages,155.2,1,155.2,Bangalore,51
+BLK002,11-01-2024,Sugar,Grocery,155.67,2,311.34,Chennai,39
+BLK003,08-06-2024,Toothpaste,Personal Care,435.33,5,2176.65,Kolkata,33
+BLK004,24-08-2024,Biscuits,Snacks,300.11,5,1500.55,Hyderabad,33
+BLK005,24-04-2024,Soft Drink,Beverages,434.2,2,868.4,Delhi,60
+BLK006,04-06-2024,Sugar,Grocery,161.68,3,485.04,Delhi,34
+BLK007,26-05-2024,Salt,Grocery,437.04,4,1748.16,Hyderabad,15
+BLK008,06-12-2024,Salt,Grocery,376.21,3,1128.63,Kolkata,20
+BLK009,09-10-2024,Sugar,Grocery,472.14,4,1888.56,Delhi,53
+BLK010,23-03-2024,Handwash,Personal Care,308.05,2,616.1,Bangalore,58
+BLK011,30-10-2024,Juice,Beverages,341.58,5,1707.9,Delhi,32
+BLK012,22-10-2024,Shampoo,Personal Care,435.62,2,871.24,Hyderabad,36
+BLK013,30-08-2024,Tea,Beverages,441.11,1,441.11,Chennai,17
+BLK014,16-04-2024,Cookies,Snacks,122.75,5,613.75,Mumbai,60
+BLK015,28-09-2024,Cookies,Snacks,376.14,5,1880.7,Hyderabad,57
+BLK016,28-04-2024,Toothpaste,Personal Care,104.26,1,104.26,Hyderabad,44
+BLK017,17-06-2024,Juice,Beverages,381.61,1,381.61,Bangalore,43
+BLK018,23-11-2024,Pulses,Grocery,421.42,5,2107.1,Kolkata,57
+BLK019,26-08-2024,Shampoo,Personal Care,498.88,4,1995.52,Kolkata,59
+BLK020,02-01-2024,Soft Drink,Beverages,288.65,3,865.95,Hyderabad,34
+BLK021,21-01-2024,Salt,Grocery,441.2,4,1764.8,Chennai,57
+BLK022,30-03-2024,Coffee,Beverages,154.24,4,616.96,Chennai,45
+BLK023,19-10-2024,Soap,Personal Care,167.9,2,335.8,Kolkata,25
+BLK024,24-05-2024,Shampoo,Personal Care,184.61,2,369.22,Delhi,42
+BLK025,08-12-2024,Shampoo,Personal Care,458.47,4,1833.88,Kolkata,24
+BLK026,21-03-2024,Face Wash,Personal Care,236.82,2,473.64,Hyderabad,26
+BLK027,07-06-2024,Sugar,Grocery,232.05,4,928.2,Kolkata,52
+BLK028,23-12-2024,Pulses,Grocery,221.24,2,442.48,Kolkata,16
+BLK029,03-02-2024,Pulses,Grocery,384.52,5,1922.6,Hyderabad,11
+BLK030,18-06-2024,Juice,Beverages,209.64,1,209.64,Chennai,49
+BLK031,06-05-2024,Soap,Personal Care,187.92,5,939.6,Delhi,12
+BLK032,27-06-2024,Chips,Snacks,151.32,4,605.28,Mumbai,59
+BLK033,13-01-2024,Tea,Beverages,386.23,5,1931.15,Kolkata,58
+BLK034,12-07-2024,Sugar,Grocery,401.42,3,1204.26,Chennai,34
+BLK035,22-02-2024,Chips,Snacks,335.94,1,335.94,Delhi,22
+BLK036,19-06-2024,Biscuits,Snacks,102.09,3,306.27,Chennai,34
+BLK037,23-08-2024,Juice,Beverages,320.47,1,320.47,Mumbai,50
+BLK038,16-12-2024,Cookies,Snacks,483.7,5,2418.5,Chennai,10
+BLK039,26-10-2024,Namkeen,Snacks,100.59,3,301.77,Chennai,54
+BLK040,20-12-2024,Chocolates,Snacks,223.54,4,894.16,Chennai,45
+BLK041,23-10-2024,Salt,Grocery,438.66,3,1315.98,Hyderabad,22
+BLK042,03-06-2024,Shampoo,Personal Care,72.4,5,362,Hyderabad,26
+BLK043,05-09-2024,Namkeen,Snacks,248.39,3,745.17,Bangalore,22
+BLK044,27-12-2024,Soft Drink,Beverages,407.95,3,1223.85,Kolkata,18
+BLK045,29-12-2024,Toothpaste,Personal Care,228.08,5,1140.4,Mumbai,29
+BLK046,21-02-2024,Sugar,Grocery,253.43,4,1013.72,Delhi,60
+BLK047,03-08-2024,Chips,Snacks,189.58,5,947.9,Hyderabad,59
+BLK048,27-02-2024,Milk,Beverages,130.19,3,390.57,Mumbai,22
+BLK049,22-03-2024,Juice,Beverages,445.87,3,1337.61,Hyderabad,30
+BLK050,21-01-2024,Coffee,Beverages,293.88,1,293.88,Bangalore,59
+BLK051,22-05-2024,Tea,Beverages,345.87,5,1729.35,Delhi,22
+BLK052,01-05-2024,Shampoo,Personal Care,284.22,2,568.44,Delhi,28
+BLK053,22-09-2024,Pulses,Grocery,454.79,4,1819.16,Delhi,47
+BLK054,16-03-2024,Salt,Grocery,229.78,4,919.12,Chennai,20
+BLK055,24-02-2024,Juice,Beverages,228.16,1,228.16,Bangalore,28
+BLK056,28-09-2024,Soap,Personal Care,244.46,5,1222.3,Kolkata,29
+BLK057,08-02-2024,Face Wash,Personal Care,342.59,5,1712.95,Bangalore,22
+BLK058,20-01-2024,Face Wash,Personal Care,236.05,2,472.1,Kolkata,48
+BLK059,16-07-2024,Toothpaste,Personal Care,162.97,5,814.85,Bangalore,33
+BLK060,30-10-2024,Biscuits,Snacks,373.81,5,1869.05,Delhi,13
+BLK061,26-04-2024,Juice,Beverages,340.15,1,340.15,Hyderabad,48
+BLK062,25-12-2024,Coffee,Beverages,368.92,2,737.84,Hyderabad,38
+BLK063,06-02-2024,Sugar,Grocery,84.07,4,336.28,Bangalore,19
+BLK064,12-11-2024,Salt,Grocery,198.01,5,990.05,Bangalore,39
+BLK065,05-02-2024,Wheat Flour,Grocery,114.76,2,229.52,Chennai,18
+BLK066,07-12-2024,Juice,Beverages,143.08,2,286.16,Kolkata,30
+BLK067,05-08-2024,Toothpaste,Personal Care,215.37,5,1076.85,Mumbai,32
+BLK068,23-02-2024,Pulses,Grocery,431.11,1,431.11,Mumbai,47
+BLK069,12-09-2024,Sugar,Grocery,347.03,3,1041.09,Chennai,44
+BLK070,12-03-2024,Toothpaste,Personal Care,197.65,3,592.95,Hyderabad,25
+BLK071,18-11-2024,Pulses,Grocery,284.7,2,569.4,Chennai,43
+BLK072,10-03-2024,Soap,Personal Care,485.48,3,1456.44,Kolkata,60
+BLK073,24-03-2024,Namkeen,Snacks,315.05,1,315.05,Delhi,54
+BLK074,22-04-2024,Soft Drink,Beverages,388.75,4,1555,Hyderabad,47
+BLK075,17-11-2024,Coffee,Beverages,217.48,2,434.96,Kolkata,44
+BLK076,20-02-2024,Salt,Grocery,391.23,3,1173.69,Delhi,60
+BLK077,24-11-2024,Toothpaste,Personal Care,472.8,1,472.8,Delhi,16
+BLK078,13-04-2024,Wheat Flour,Grocery,456.52,4,1826.08,Chennai,54
+BLK079,09-07-2024,Shampoo,Personal Care,256.66,1,256.66,Chennai,18
+BLK080,28-03-2024,Chips,Snacks,55.44,2,110.88,Mumbai,12
+BLK081,05-03-2024,Shampoo,Personal Care,448.76,3,1346.28,Bangalore,60
+BLK082,17-03-2024,Salt,Grocery,104.89,5,524.45,Kolkata,43
+BLK083,21-09-2024,Coffee,Beverages,408.41,5,2042.05,Hyderabad,25
+BLK084,25-02-2024,Namkeen,Snacks,375.62,3,1126.86,Hyderabad,17
+BLK085,21-04-2024,Handwash,Personal Care,59.73,1,59.73,Mumbai,45
+BLK086,06-07-2024,Toothpaste,Personal Care,61.87,1,61.87,Chennai,33
+BLK087,10-01-2024,Coffee,Beverages,426.96,3,1280.88,Chennai,43
+BLK088,20-08-2024,Soap,Personal Care,343.87,1,343.87,Chennai,31
+BLK089,28-10-2024,Cookies,Snacks,238.67,2,477.34,Hyderabad,27
+BLK090,10-07-2024,Wheat Flour,Grocery,393.37,5,1966.85,Chennai,39
+BLK091,22-01-2024,Sugar,Grocery,294.6,2,589.2,Mumbai,17
+BLK092,04-10-2024,Biscuits,Snacks,183.09,1,183.09,Chennai,39
+BLK093,13-04-2024,Biscuits,Snacks,305.3,2,610.6,Hyderabad,28
+BLK094,14-04-2024,Cookies,Snacks,125.31,5,626.55,Mumbai,24
+BLK095,09-06-2024,Rice,Grocery,383.79,3,1151.37,Kolkata,56
+BLK096,23-09-2024,Namkeen,Snacks,367.87,4,1471.48,Mumbai,11
+BLK097,23-05-2024,Salt,Grocery,469.22,5,2346.1,Kolkata,55
+BLK098,28-12-2024,Salt,Grocery,330.96,5,1654.8,Bangalore,21
+BLK099,12-07-2024,Pulses,Grocery,102.7,3,308.1,Chennai,18
+BLK100,20-10-2024,Cookies,Snacks,257.38,4,1029.52,Hyderabad,33
+BLK101,10-09-2024,Namkeen,Snacks,167.33,3,501.99,Bangalore,55
+BLK102,09-04-2024,Soft Drink,Beverages,126.1,1,126.1,Delhi,57
+BLK103,25-10-2024,Namkeen,Snacks,321.6,4,1286.4,Kolkata,23
+BLK104,06-04-2024,Chips,Snacks,102.3,4,409.2,Bangalore,33
+BLK105,09-03-2024,Cookies,Snacks,187.46,2,374.92,Chennai,30
+BLK106,05-11-2024,Namkeen,Snacks,432.51,4,1730.04,Mumbai,15
+BLK107,30-07-2024,Tea,Beverages,468.12,3,1404.36,Delhi,21
+BLK108,07-11-2024,Chocolates,Snacks,103.1,4,412.4,Delhi,29
+BLK109,22-03-2024,Cookies,Snacks,139.96,5,699.8,Hyderabad,56
+BLK110,03-05-2024,Shampoo,Personal Care,186.23,1,186.23,Chennai,46
+BLK111,25-09-2024,Face Wash,Personal Care,220.73,4,882.92,Chennai,23
+BLK112,11-07-2024,Pulses,Grocery,405.37,5,2026.85,Bangalore,12
+BLK113,14-10-2024,Coffee,Beverages,464.31,2,928.62,Chennai,45
+BLK114,13-04-2024,Milk,Beverages,225.58,1,225.58,Mumbai,54
+BLK115,10-09-2024,Milk,Beverages,139.25,2,278.5,Kolkata,10
+BLK116,03-10-2024,Juice,Beverages,273.14,5,1365.7,Hyderabad,45
+BLK117,28-05-2024,Sugar,Grocery,284.07,1,284.07,Bangalore,40
+BLK118,16-05-2024,Wheat Flour,Grocery,405.39,1,405.39,Chennai,49
+BLK119,30-11-2024,Soap,Personal Care,210.18,1,210.18,Bangalore,53
+BLK120,04-07-2024,Chocolates,Snacks,53.01,1,53.01,Delhi,54
+BLK121,06-10-2024,Sugar,Grocery,476.35,3,1429.05,Bangalore,21
+BLK122,22-04-2024,Coffee,Beverages,389.68,5,1948.4,Hyderabad,15
+BLK123,31-12-2024,Biscuits,Snacks,146.29,4,585.16,Bangalore,42
+BLK124,28-04-2024,Soap,Personal Care,475.34,5,2376.7,Chennai,16
+BLK125,30-07-2024,Face Wash,Personal Care,138.35,1,138.35,Kolkata,50
+BLK126,25-03-2024,Chocolates,Snacks,290.8,1,290.8,Bangalore,46
+BLK127,14-06-2024,Rice,Grocery,382.9,2,765.8,Mumbai,25
+BLK128,20-04-2024,Milk,Beverages,56.8,4,227.2,Mumbai,13
+BLK129,11-06-2024,Pulses,Grocery,291.68,3,875.04,Delhi,32
+BLK130,20-07-2024,Soft Drink,Beverages,478.26,5,2391.3,Delhi,44
+BLK131,03-01-2024,Pulses,Grocery,371.93,3,1115.79,Mumbai,37
+BLK132,29-09-2024,Wheat Flour,Grocery,168.2,2,336.4,Chennai,53
+BLK133,17-12-2024,Rice,Grocery,471.93,3,1415.79,Chennai,11
+BLK134,14-07-2024,Sugar,Grocery,427.18,4,1708.72,Hyderabad,30
+BLK135,06-10-2024,Rice,Grocery,101.12,4,404.48,Delhi,33
+BLK136,10-02-2024,Chocolates,Snacks,132,1,132,Delhi,45
+BLK137,28-08-2024,Coffee,Beverages,88.39,2,176.78,Hyderabad,58
+BLK138,16-07-2024,Coffee,Beverages,425.78,3,1277.34,Delhi,26
+BLK139,12-11-2024,Sugar,Grocery,312.45,1,312.45,Delhi,40
+BLK140,28-06-2024,Toothpaste,Personal Care,158.67,5,793.35,Chennai,60
+BLK141,12-08-2024,Sugar,Grocery,147.37,2,294.74,Hyderabad,54
+BLK142,28-11-2024,Juice,Beverages,287.81,5,1439.05,Mumbai,34
+BLK143,09-04-2024,Toothpaste,Personal Care,323.54,2,647.08,Kolkata,31
+BLK144,28-01-2024,Shampoo,Personal Care,340.86,3,1022.58,Bangalore,51
+BLK145,21-08-2024,Cookies,Snacks,290.28,4,1161.12,Chennai,27
+BLK146,31-08-2024,Shampoo,Personal Care,498.46,4,1993.84,Kolkata,50
+BLK147,09-05-2024,Chips,Snacks,78.32,4,313.28,Kolkata,56
+BLK148,23-05-2024,Toothpaste,Personal Care,454.23,2,908.46,Hyderabad,31
+BLK149,31-05-2024,Soap,Personal Care,391.07,1,391.07,Delhi,59
+BLK150,31-05-2024,Soap,Personal Care,267.51,2,535.02,Delhi,15
+BLK151,13-07-2024,Tea,Beverages,195.27,2,390.54,Chennai,11
+BLK152,04-08-2024,Sugar,Grocery,68.31,1,68.31,Bangalore,35
+BLK153,23-11-2024,Biscuits,Snacks,382.57,3,1147.71,Delhi,56
+BLK154,14-02-2024,Tea,Beverages,220.96,4,883.84,Hyderabad,31
+BLK155,13-08-2024,Juice,Beverages,341.28,4,1365.12,Delhi,26
+BLK156,20-12-2024,Handwash,Personal Care,355.29,5,1776.45,Hyderabad,50
+BLK157,16-10-2024,Chips,Snacks,483.19,1,483.19,Mumbai,10
+BLK158,03-06-2024,Milk,Beverages,462.96,3,1388.88,Delhi,22
+BLK159,11-04-2024,Handwash,Personal Care,193.61,3,580.83,Bangalore,41
+BLK160,30-08-2024,Soap,Personal Care,137.65,4,550.6,Kolkata,34
+BLK161,16-11-2024,Pulses,Grocery,448.25,5,2241.25,Bangalore,44
+BLK162,09-09-2024,Cookies,Snacks,494.05,3,1482.15,Mumbai,17
+BLK163,22-05-2024,Rice,Grocery,449.18,5,2245.9,Mumbai,51
+BLK164,27-06-2024,Juice,Beverages,380.33,4,1521.32,Hyderabad,16
+BLK165,16-05-2024,Namkeen,Snacks,330.91,1,330.91,Delhi,13
+BLK166,14-09-2024,Toothpaste,Personal Care,59.15,4,236.6,Hyderabad,24
+BLK167,26-07-2024,Rice,Grocery,279.71,3,839.13,Delhi,56
+BLK168,27-04-2024,Tea,Beverages,356.06,1,356.06,Hyderabad,10
+BLK169,23-09-2024,Face Wash,Personal Care,260.76,2,521.52,Chennai,51
+BLK170,23-03-2024,Soap,Personal Care,471.63,4,1886.52,Hyderabad,32
+BLK171,08-11-2024,Coffee,Beverages,245.63,1,245.63,Delhi,47
+BLK172,17-02-2024,Shampoo,Personal Care,91.38,4,365.52,Mumbai,44
+BLK173,23-08-2024,Shampoo,Personal Care,366.57,1,366.57,Hyderabad,12
+BLK174,19-01-2024,Chips,Snacks,295.91,3,887.73,Bangalore,13
+BLK175,29-12-2024,Chips,Snacks,241.31,5,1206.55,Mumbai,51
+BLK176,02-03-2024,Biscuits,Snacks,207.7,2,415.4,Mumbai,55
+BLK177,08-06-2024,Wheat Flour,Grocery,301.6,2,603.2,Bangalore,14
+BLK178,17-07-2024,Soap,Personal Care,251,3,753,Hyderabad,51
+BLK179,31-01-2024,Tea,Beverages,259.83,1,259.83,Mumbai,36
+BLK180,12-07-2024,Salt,Grocery,186.17,3,558.51,Delhi,46
+BLK181,06-06-2024,Namkeen,Snacks,273.94,3,821.82,Chennai,24
+BLK182,22-06-2024,Tea,Beverages,374.14,5,1870.7,Bangalore,11
+BLK183,20-09-2024,Sugar,Grocery,183.72,2,367.44,Delhi,33
+BLK184,06-03-2024,Pulses,Grocery,317.05,3,951.15,Hyderabad,11
+BLK185,02-07-2024,Cookies,Snacks,267,1,267,Mumbai,20
+BLK186,02-11-2024,Tea,Beverages,227.69,3,683.07,Hyderabad,58
+BLK187,07-09-2024,Juice,Beverages,324.65,4,1298.6,Mumbai,48
+BLK188,28-03-2024,Soft Drink,Beverages,469.27,3,1407.81,Hyderabad,18
+BLK189,29-09-2024,Tea,Beverages,283.27,3,849.81,Kolkata,12
+BLK190,05-12-2024,Sugar,Grocery,260.44,3,781.32,Bangalore,30
+BLK191,29-08-2024,Face Wash,Personal Care,177.28,1,177.28,Kolkata,20
+BLK192,28-01-2024,Salt,Grocery,377.53,5,1887.65,Chennai,23
+BLK193,24-01-2024,Juice,Beverages,115.46,3,346.38,Mumbai,43
+BLK194,31-05-2024,Soap,Personal Care,111.48,2,222.96,Bangalore,32
+BLK195,06-10-2024,Cookies,Snacks,124.77,4,499.08,Bangalore,27
+BLK196,21-04-2024,Shampoo,Personal Care,119.43,1,119.43,Bangalore,32
+BLK197,19-06-2024,Pulses,Grocery,151.24,2,302.48,Hyderabad,23
+BLK198,11-04-2024,Face Wash,Personal Care,297.12,3,891.36,Kolkata,51
+BLK199,12-09-2024,Salt,Grocery,430.48,5,2152.4,Hyderabad,30
+BLK200,14-02-2024,Face Wash,Personal Care,426.36,2,852.72,Mumbai,27
+BLK201,18-02-2024,Chips,Snacks,84.5,1,84.5,Kolkata,28
+BLK202,20-06-2024,Tea,Beverages,249.2,5,1246,Mumbai,57
+BLK203,04-11-2024,Shampoo,Personal Care,115.33,5,576.65,Mumbai,18
+BLK204,01-06-2024,Juice,Beverages,311.13,4,1244.52,Delhi,21
+BLK205,09-12-2024,Milk,Beverages,434.62,1,434.62,Delhi,28
+BLK206,20-08-2024,Milk,Beverages,286.13,1,286.13,Kolkata,49
+BLK207,21-11-2024,Rice,Grocery,70.4,5,352,Bangalore,35
+BLK208,15-05-2024,Shampoo,Personal Care,69.39,2,138.78,Chennai,50
+BLK209,04-08-2024,Shampoo,Personal Care,193.15,4,772.6,Mumbai,44
+BLK210,12-11-2024,Chips,Snacks,131.59,3,394.77,Bangalore,44
+BLK211,27-05-2024,Soft Drink,Beverages,246,4,984,Bangalore,14
+BLK212,24-10-2024,Rice,Grocery,387.26,3,1161.78,Delhi,21
+BLK213,31-01-2024,Face Wash,Personal Care,137.69,3,413.07,Bangalore,60
+BLK214,13-07-2024,Handwash,Personal Care,484.35,4,1937.4,Kolkata,52
+BLK215,20-08-2024,Handwash,Personal Care,70.5,2,141,Delhi,18
+BLK216,11-06-2024,Sugar,Grocery,108.09,2,216.18,Hyderabad,29
+BLK217,25-12-2024,Wheat Flour,Grocery,144.37,3,433.11,Bangalore,40
+BLK218,16-03-2024,Coffee,Beverages,303.22,5,1516.1,Bangalore,53
+BLK219,06-08-2024,Tea,Beverages,447.95,1,447.95,Kolkata,46
+BLK220,18-02-2024,Coffee,Beverages,492.04,4,1968.16,Chennai,40
+BLK221,03-01-2024,Biscuits,Snacks,405.65,2,811.3,Mumbai,21
+BLK222,04-09-2024,Salt,Grocery,135.06,4,540.24,Hyderabad,12
+BLK223,25-08-2024,Sugar,Grocery,487.96,2,975.92,Chennai,22
+BLK224,13-11-2024,Chips,Snacks,405.84,4,1623.36,Delhi,32
+BLK225,30-09-2024,Tea,Beverages,296.89,2,593.78,Delhi,52
+BLK226,21-08-2024,Rice,Grocery,410.58,4,1642.32,Bangalore,56
+BLK227,10-09-2024,Namkeen,Snacks,255.49,1,255.49,Bangalore,25
+BLK228,25-12-2024,Coffee,Beverages,246.62,4,986.48,Chennai,22
+BLK229,28-04-2024,Tea,Beverages,213.95,5,1069.75,Mumbai,51
+BLK230,29-08-2024,Handwash,Personal Care,430.61,1,430.61,Hyderabad,25
+BLK231,06-03-2024,Biscuits,Snacks,50.68,3,152.04,Delhi,41
+BLK232,25-04-2024,Milk,Beverages,82.38,2,164.76,Chennai,28
+BLK233,01-07-2024,Toothpaste,Personal Care,399.68,4,1598.72,Hyderabad,26
+BLK234,15-03-2024,Coffee,Beverages,363.15,2,726.3,Mumbai,25
+BLK235,15-01-2024,Handwash,Personal Care,262.17,1,262.17,Mumbai,53
+BLK236,17-05-2024,Milk,Beverages,463.85,2,927.7,Mumbai,29
+BLK237,09-05-2024,Salt,Grocery,213.37,1,213.37,Hyderabad,47
+BLK238,15-08-2024,Cookies,Snacks,452.35,3,1357.05,Hyderabad,34
+BLK239,25-06-2024,Namkeen,Snacks,230.43,4,921.72,Bangalore,40
+BLK240,09-10-2024,Tea,Beverages,404.01,2,808.02,Delhi,51
+BLK241,26-03-2024,Wheat Flour,Grocery,145.36,1,145.36,Bangalore,37
+BLK242,05-11-2024,Face Wash,Personal Care,55.15,1,55.15,Delhi,28
+BLK243,05-12-2024,Sugar,Grocery,206.88,5,1034.4,Kolkata,22
+BLK244,20-01-2024,Toothpaste,Personal Care,271.08,1,271.08,Hyderabad,15
+BLK245,20-06-2024,Biscuits,Snacks,211.28,3,633.84,Mumbai,59
+BLK246,19-10-2024,Namkeen,Snacks,277.15,2,554.3,Delhi,30
+BLK247,10-10-2024,Tea,Beverages,76.88,3,230.64,Kolkata,21
+BLK248,19-12-2024,Pulses,Grocery,469.63,2,939.26,Chennai,26
+BLK249,22-05-2024,Milk,Beverages,471.65,5,2358.25,Hyderabad,55
+BLK250,26-08-2024,Namkeen,Snacks,182.8,1,182.8,Mumbai,22
+BLK251,04-08-2024,Biscuits,Snacks,468.38,3,1405.14,Chennai,46
+BLK252,11-01-2024,Cookies,Snacks,58.05,3,174.15,Kolkata,15
+BLK253,12-04-2024,Tea,Beverages,410.23,2,820.46,Kolkata,49
+BLK254,14-12-2024,Toothpaste,Personal Care,408.92,1,408.92,Chennai,36
+BLK255,04-08-2024,Shampoo,Personal Care,480.49,1,480.49,Bangalore,10
+BLK256,04-09-2024,Chocolates,Snacks,425.53,2,851.06,Kolkata,31
+BLK257,02-10-2024,Handwash,Personal Care,283.3,3,849.9,Bangalore,20
+BLK258,22-06-2024,Pulses,Grocery,417.05,5,2085.25,Chennai,50
+BLK259,22-10-2024,Chocolates,Snacks,144.88,3,434.64,Kolkata,15
+BLK260,10-05-2024,Soap,Personal Care,318.96,3,956.88,Chennai,31
+BLK261,16-06-2024,Rice,Grocery,336.99,4,1347.96,Hyderabad,47
+BLK262,25-06-2024,Chocolates,Snacks,184.36,5,921.8,Hyderabad,36
+BLK263,02-11-2024,Handwash,Personal Care,315.16,1,315.16,Delhi,21
+BLK264,04-08-2024,Milk,Beverages,179.41,5,897.05,Hyderabad,48
+BLK265,06-12-2024,Milk,Beverages,188.15,1,188.15,Kolkata,11
+BLK266,12-05-2024,Coffee,Beverages,381.2,2,762.4,Chennai,35
+BLK267,17-12-2024,Wheat Flour,Grocery,265.34,1,265.34,Kolkata,17
+BLK268,18-04-2024,Pulses,Grocery,330.18,2,660.36,Kolkata,52
+BLK269,02-12-2024,Rice,Grocery,370.63,1,370.63,Kolkata,39
+BLK270,12-08-2024,Tea,Beverages,112.87,4,451.48,Chennai,44
+BLK271,18-11-2024,Milk,Beverages,237.43,4,949.72,Bangalore,28
+BLK272,29-02-2024,Cookies,Snacks,136.61,4,546.44,Hyderabad,33
+BLK273,07-12-2024,Pulses,Grocery,263.58,1,263.58,Mumbai,35
+BLK274,21-12-2024,Rice,Grocery,488.16,5,2440.8,Hyderabad,42
+BLK275,04-11-2024,Sugar,Grocery,491.63,2,983.26,Bangalore,39
+BLK276,04-02-2024,Chocolates,Snacks,447.6,4,1790.4,Mumbai,26
+BLK277,16-03-2024,Shampoo,Personal Care,413.26,1,413.26,Hyderabad,42
+BLK278,20-10-2024,Namkeen,Snacks,262.6,1,262.6,Kolkata,12
+BLK279,02-03-2024,Soft Drink,Beverages,257.55,2,515.1,Delhi,39
+BLK280,23-11-2024,Sugar,Grocery,257.4,3,772.2,Delhi,33
+BLK281,29-08-2024,Soap,Personal Care,181.41,3,544.23,Mumbai,23
+BLK282,08-08-2024,Cookies,Snacks,328,1,328,Hyderabad,58
+BLK283,15-10-2024,Shampoo,Personal Care,405.27,3,1215.81,Mumbai,47
+BLK284,09-05-2024,Chips,Snacks,235.29,2,470.58,Delhi,16
+BLK285,06-03-2024,Toothpaste,Personal Care,57.54,2,115.08,Kolkata,22
+BLK286,22-09-2024,Handwash,Personal Care,301.72,4,1206.88,Kolkata,27
+BLK287,21-07-2024,Rice,Grocery,194.35,5,971.75,Hyderabad,13
+BLK288,31-05-2024,Pulses,Grocery,113.02,4,452.08,Mumbai,23
+BLK289,05-11-2024,Soap,Personal Care,112.52,1,112.52,Delhi,38
+BLK290,10-08-2024,Sugar,Grocery,408.15,4,1632.6,Kolkata,35
+BLK291,06-02-2024,Namkeen,Snacks,369.88,3,1109.64,Chennai,19
+BLK292,25-04-2024,Chocolates,Snacks,345.76,1,345.76,Hyderabad,50
+BLK293,18-02-2024,Milk,Beverages,478.68,2,957.36,Kolkata,42
+BLK294,27-08-2024,Toothpaste,Personal Care,275.08,3,825.24,Delhi,24
+BLK295,18-02-2024,Cookies,Snacks,156.19,3,468.57,Bangalore,27
+BLK296,30-10-2024,Shampoo,Personal Care,134.73,3,404.19,Chennai,45
+BLK297,22-11-2024,Sugar,Grocery,168.38,1,168.38,Bangalore,12
+BLK298,22-11-2024,Cookies,Snacks,393.58,3,1180.74,Hyderabad,48
+BLK299,14-10-2024,Milk,Beverages,290.67,2,581.34,Kolkata,18
+BLK300,19-08-2024,Milk,Beverages,471.62,2,943.24,Chennai,50
+BLK301,16-05-2024,Sugar,Grocery,165.89,2,331.78,Mumbai,53
+BLK302,26-11-2024,Sugar,Grocery,115.68,3,347.04,Chennai,52
+BLK303,14-07-2024,Shampoo,Personal Care,371.36,1,371.36,Bangalore,16
+BLK304,20-04-2024,Pulses,Grocery,392.65,5,1963.25,Delhi,22
+BLK305,31-12-2024,Salt,Grocery,139.1,1,139.1,Bangalore,11
+BLK306,10-03-2024,Shampoo,Personal Care,209.54,5,1047.7,Bangalore,55
+BLK307,14-05-2024,Handwash,Personal Care,478.67,2,957.34,Delhi,37
+BLK308,15-07-2024,Cookies,Snacks,312.79,4,1251.16,Mumbai,50
+BLK309,08-06-2024,Sugar,Grocery,245.24,5,1226.2,Kolkata,59
+BLK310,28-10-2024,Biscuits,Snacks,71.52,3,214.56,Hyderabad,57
+BLK311,22-03-2024,Wheat Flour,Grocery,91.32,1,91.32,Hyderabad,13
+BLK312,20-05-2024,Soft Drink,Beverages,204.57,3,613.71,Mumbai,25
+BLK313,24-09-2024,Handwash,Personal Care,348.3,1,348.3,Delhi,49
+BLK314,09-09-2024,Toothpaste,Personal Care,126.3,4,505.2,Mumbai,38
+BLK315,10-11-2024,Rice,Grocery,193.09,5,965.45,Kolkata,16
+BLK316,21-04-2024,Soft Drink,Beverages,304.62,1,304.62,Kolkata,26
+BLK317,21-12-2024,Chips,Snacks,192.21,1,192.21,Kolkata,27
+BLK318,20-06-2024,Juice,Beverages,351.82,2,703.64,Hyderabad,27
+BLK319,10-11-2024,Biscuits,Snacks,283.73,1,283.73,Hyderabad,53
+BLK320,22-03-2024,Chocolates,Snacks,478.64,4,1914.56,Delhi,37
+BLK321,05-09-2024,Salt,Grocery,389.1,2,778.2,Kolkata,11
+BLK322,04-09-2024,Juice,Beverages,402.12,2,804.24,Hyderabad,49
+BLK323,04-11-2024,Toothpaste,Personal Care,256.83,2,513.66,Kolkata,53
+BLK324,30-09-2024,Rice,Grocery,242.62,3,727.86,Chennai,43
+BLK325,02-11-2024,Cookies,Snacks,205.41,2,410.82,Bangalore,48
+BLK326,04-03-2024,Sugar,Grocery,237.91,2,475.82,Hyderabad,25
+BLK327,12-03-2024,Toothpaste,Personal Care,289.76,1,289.76,Delhi,52
+BLK328,19-06-2024,Soap,Personal Care,399.82,2,799.64,Kolkata,22
+BLK329,26-08-2024,Salt,Grocery,353.11,1,353.11,Mumbai,51
+BLK330,01-09-2024,Soap,Personal Care,71.43,4,285.72,Hyderabad,29
+BLK331,21-10-2024,Tea,Beverages,219.89,4,879.56,Kolkata,51
+BLK332,15-01-2024,Salt,Grocery,226.28,2,452.56,Bangalore,34
+BLK333,26-05-2024,Rice,Grocery,75.97,2,151.94,Hyderabad,58
+BLK334,31-07-2024,Cookies,Snacks,455.7,3,1367.1,Hyderabad,60
+BLK335,15-10-2024,Coffee,Beverages,186.58,1,186.58,Chennai,52
+BLK336,10-06-2024,Salt,Grocery,267.1,1,267.1,Kolkata,49
+BLK337,08-09-2024,Soap,Personal Care,279.14,5,1395.7,Bangalore,25
+BLK338,29-12-2024,Soap,Personal Care,245.09,3,735.27,Delhi,23
+BLK339,04-11-2024,Pulses,Grocery,204.19,4,816.76,Mumbai,29
+BLK340,11-12-2024,Soap,Personal Care,486,1,486,Delhi,20
+BLK341,19-12-2024,Handwash,Personal Care,365.67,4,1462.68,Delhi,27
+BLK342,10-05-2024,Soap,Personal Care,351.68,3,1055.04,Bangalore,42
+BLK343,15-10-2024,Face Wash,Personal Care,169.41,4,677.64,Kolkata,40
+BLK344,16-05-2024,Tea,Beverages,375.25,1,375.25,Mumbai,16
+BLK345,15-12-2024,Coffee,Beverages,194.36,1,194.36,Chennai,40
+BLK346,25-07-2024,Soft Drink,Beverages,401.64,4,1606.56,Bangalore,49
+BLK347,20-03-2024,Cookies,Snacks,261.52,1,261.52,Hyderabad,14
+BLK348,14-12-2024,Toothpaste,Personal Care,386.82,5,1934.1,Hyderabad,38
+BLK349,16-03-2024,Coffee,Beverages,286.49,2,572.98,Bangalore,35
+BLK350,27-03-2024,Soft Drink,Beverages,259.9,4,1039.6,Chennai,38
+BLK351,14-11-2024,Chips,Snacks,446.35,1,446.35,Delhi,38
+BLK352,17-07-2024,Pulses,Grocery,463.8,3,1391.4,Kolkata,49
+BLK353,31-10-2024,Soft Drink,Beverages,308.65,4,1234.6,Mumbai,51
+BLK354,25-08-2024,Face Wash,Personal Care,481.67,2,963.34,Hyderabad,26
+BLK355,09-09-2024,Tea,Beverages,414.34,5,2071.7,Chennai,23
+BLK356,24-03-2024,Milk,Beverages,357.87,5,1789.35,Bangalore,32
+BLK357,04-11-2024,Coffee,Beverages,89.07,3,267.21,Delhi,48
+BLK358,19-02-2024,Namkeen,Snacks,138.93,2,277.86,Hyderabad,49
+BLK359,09-11-2024,Biscuits,Snacks,148.59,2,297.18,Chennai,48
+BLK360,09-01-2024,Milk,Beverages,87.25,1,87.25,Mumbai,50
+BLK361,29-02-2024,Tea,Beverages,460.37,4,1841.48,Mumbai,46
+BLK362,05-04-2024,Wheat Flour,Grocery,126.81,5,634.05,Kolkata,16
+BLK363,18-03-2024,Biscuits,Snacks,98.76,4,395.04,Chennai,34
+BLK364,14-05-2024,Toothpaste,Personal Care,360.38,5,1801.9,Hyderabad,32
+BLK365,14-04-2024,Rice,Grocery,103.81,1,103.81,Delhi,57
+BLK366,14-02-2024,Chips,Snacks,214.61,4,858.44,Hyderabad,42
+BLK367,22-02-2024,Salt,Grocery,277.32,4,1109.28,Bangalore,16
+BLK368,13-08-2024,Coffee,Beverages,378.69,1,378.69,Delhi,31
+BLK369,22-11-2024,Coffee,Beverages,160.97,3,482.91,Kolkata,45
+BLK370,14-10-2024,Rice,Grocery,125.05,4,500.2,Bangalore,57
+BLK371,04-09-2024,Chips,Snacks,416.42,2,832.84,Kolkata,56
+BLK372,04-02-2024,Chips,Snacks,308.57,4,1234.28,Chennai,46
+BLK373,05-09-2024,Toothpaste,Personal Care,305.48,4,1221.92,Kolkata,33
+BLK374,15-11-2024,Sugar,Grocery,495.05,3,1485.15,Mumbai,47
+BLK375,10-12-2024,Chips,Snacks,473.82,5,2369.1,Delhi,37
+BLK376,30-04-2024,Face Wash,Personal Care,210.97,2,421.94,Bangalore,46
+BLK377,05-03-2024,Face Wash,Personal Care,320.48,5,1602.4,Kolkata,60
+BLK378,15-01-2024,Coffee,Beverages,387.7,4,1550.8,Delhi,51
+BLK379,22-12-2024,Soft Drink,Beverages,368.52,3,1105.56,Kolkata,23
+BLK380,18-01-2024,Soap,Personal Care,179.22,2,358.44,Hyderabad,13
+BLK381,21-07-2024,Chips,Snacks,90.82,5,454.1,Kolkata,42
+BLK382,03-04-2024,Soap,Personal Care,197.04,3,591.12,Chennai,46
+BLK383,24-08-2024,Wheat Flour,Grocery,101.53,1,101.53,Chennai,26
+BLK384,25-11-2024,Chips,Snacks,392.84,3,1178.52,Hyderabad,43
+BLK385,16-12-2024,Milk,Beverages,467.92,2,935.84,Bangalore,43
+BLK386,17-11-2024,Wheat Flour,Grocery,369.33,5,1846.65,Hyderabad,25
+BLK387,04-05-2024,Toothpaste,Personal Care,138.05,4,552.2,Kolkata,22
+BLK388,06-12-2024,Coffee,Beverages,344.25,3,1032.75,Delhi,53
+BLK389,15-01-2024,Salt,Grocery,340.75,2,681.5,Kolkata,32
+BLK390,03-04-2024,Coffee,Beverages,309.36,4,1237.44,Bangalore,57
+BLK391,26-12-2024,Face Wash,Personal Care,191.79,1,191.79,Bangalore,12
+BLK392,12-10-2024,Tea,Beverages,411.18,4,1644.72,Delhi,44
+BLK393,27-11-2024,Shampoo,Personal Care,423.02,5,2115.1,Mumbai,54
+BLK394,06-01-2024,Rice,Grocery,391.58,1,391.58,Kolkata,18
+BLK395,10-07-2024,Biscuits,Snacks,436.62,3,1309.86,Mumbai,50
+BLK396,24-01-2024,Biscuits,Snacks,256.33,4,1025.32,Hyderabad,48
+BLK397,25-12-2024,Chips,Snacks,444.2,2,888.4,Hyderabad,32
+BLK398,29-12-2024,Biscuits,Snacks,327.88,3,983.64,Mumbai,44
+BLK399,29-08-2024,Salt,Grocery,452.56,2,905.12,Chennai,12
+BLK400,12-05-2024,Toothpaste,Personal Care,431.82,3,1295.46,Delhi,47
+BLK401,14-04-2024,Rice,Grocery,247.26,2,494.52,Chennai,29
+BLK402,18-01-2024,Pulses,Grocery,400.86,2,801.72,Kolkata,35
+BLK403,12-01-2024,Rice,Grocery,497.04,5,2485.2,Mumbai,30
+BLK404,13-07-2024,Soft Drink,Beverages,63.37,4,253.48,Kolkata,10
+BLK405,18-10-2024,Juice,Beverages,429.53,1,429.53,Mumbai,34
+BLK406,05-03-2024,Salt,Grocery,367.21,4,1468.84,Hyderabad,11
+BLK407,05-06-2024,Juice,Beverages,273.46,2,546.92,Hyderabad,40
+BLK408,30-07-2024,Chocolates,Snacks,300.22,2,600.44,Kolkata,37
+BLK409,10-07-2024,Namkeen,Snacks,242.4,3,727.2,Kolkata,24
+BLK410,13-05-2024,Pulses,Grocery,136.41,2,272.82,Delhi,20
+BLK411,09-12-2024,Biscuits,Snacks,435.81,4,1743.24,Delhi,39
+BLK412,11-04-2024,Sugar,Grocery,267.5,2,535,Mumbai,13
+BLK413,12-07-2024,Juice,Beverages,71.41,4,285.64,Chennai,47
+BLK414,13-02-2024,Face Wash,Personal Care,148.98,1,148.98,Mumbai,21
+BLK415,22-06-2024,Biscuits,Snacks,371.48,5,1857.4,Chennai,53
+BLK416,10-01-2024,Pulses,Grocery,141.93,3,425.79,Chennai,43
+BLK417,08-09-2024,Namkeen,Snacks,231.42,4,925.68,Mumbai,28
+BLK418,06-05-2024,Juice,Beverages,314.08,1,314.08,Chennai,47
+BLK419,29-01-2024,Biscuits,Snacks,188.19,2,376.38,Mumbai,28
+BLK420,29-06-2024,Wheat Flour,Grocery,460.62,3,1381.86,Delhi,27
+BLK421,17-11-2024,Chocolates,Snacks,203.23,5,1016.15,Mumbai,41
+BLK422,24-04-2024,Sugar,Grocery,133.32,4,533.28,Kolkata,29
+BLK423,13-10-2024,Soap,Personal Care,498.31,2,996.62,Hyderabad,43
+BLK424,14-07-2024,Namkeen,Snacks,79.63,5,398.15,Bangalore,33
+BLK425,03-03-2024,Juice,Beverages,87.86,4,351.44,Hyderabad,41
+BLK426,19-03-2024,Namkeen,Snacks,83.39,2,166.78,Chennai,58
+BLK427,27-03-2024,Handwash,Personal Care,231.05,4,924.2,Chennai,28
+BLK428,18-03-2024,Biscuits,Snacks,445.11,4,1780.44,Mumbai,41
+BLK429,26-11-2024,Milk,Beverages,480.57,3,1441.71,Chennai,35
+BLK430,20-04-2024,Coffee,Beverages,445.85,5,2229.25,Delhi,12
+BLK431,02-04-2024,Rice,Grocery,411.33,5,2056.65,Chennai,40
+BLK432,28-03-2024,Chips,Snacks,229.26,5,1146.3,Mumbai,28
+BLK433,26-01-2024,Salt,Grocery,159.36,4,637.44,Mumbai,17
+BLK434,13-08-2024,Milk,Beverages,424.78,2,849.56,Delhi,36
+BLK435,29-06-2024,Soap,Personal Care,179.64,5,898.2,Bangalore,50
+BLK436,10-05-2024,Wheat Flour,Grocery,70.63,3,211.89,Chennai,39
+BLK437,06-03-2024,Chips,Snacks,452.47,1,452.47,Kolkata,59
+BLK438,24-11-2024,Namkeen,Snacks,100.55,2,201.1,Kolkata,38
+BLK439,26-01-2024,Handwash,Personal Care,200.15,4,800.6,Bangalore,10
+BLK440,23-04-2024,Namkeen,Snacks,283.55,4,1134.2,Mumbai,27
+BLK441,13-03-2024,Biscuits,Snacks,183.03,1,183.03,Chennai,49
+BLK442,15-09-2024,Chocolates,Snacks,371.07,5,1855.35,Kolkata,36
+BLK443,27-10-2024,Pulses,Grocery,346.48,5,1732.4,Hyderabad,18
+BLK444,26-09-2024,Rice,Grocery,70.03,5,350.15,Kolkata,27
+BLK445,14-01-2024,Face Wash,Personal Care,283.94,4,1135.76,Mumbai,18
+BLK446,07-06-2024,Salt,Grocery,251.84,3,755.52,Hyderabad,48
+BLK447,05-10-2024,Soap,Personal Care,83.08,3,249.24,Delhi,11
+BLK448,05-01-2024,Shampoo,Personal Care,313.74,1,313.74,Bangalore,10
+BLK449,20-08-2024,Shampoo,Personal Care,331.86,3,995.58,Chennai,11
+BLK450,12-04-2024,Wheat Flour,Grocery,438.11,2,876.22,Hyderabad,27
+BLK451,06-12-2024,Namkeen,Snacks,80.3,2,160.6,Bangalore,40
+BLK452,17-03-2024,Chocolates,Snacks,440.8,3,1322.4,Mumbai,14
+BLK453,14-02-2024,Cookies,Snacks,257.35,5,1286.75,Chennai,37
+BLK454,18-09-2024,Sugar,Grocery,318.44,4,1273.76,Bangalore,42
+BLK455,03-05-2024,Coffee,Beverages,55.53,2,111.06,Bangalore,14
+BLK456,06-12-2024,Tea,Beverages,272.28,2,544.56,Chennai,18
+BLK457,29-01-2024,Cookies,Snacks,392.3,4,1569.2,Mumbai,37
+BLK458,25-07-2024,Toothpaste,Personal Care,210.41,2,420.82,Kolkata,58
+BLK459,02-01-2024,Wheat Flour,Grocery,261.55,1,261.55,Delhi,24
+BLK460,18-11-2024,Coffee,Beverages,102.6,4,410.4,Bangalore,33
+BLK461,02-12-2024,Tea,Beverages,304.73,5,1523.65,Mumbai,15
+BLK462,26-08-2024,Chocolates,Snacks,85.97,1,85.97,Chennai,19
+BLK463,01-05-2024,Shampoo,Personal Care,222.83,4,891.32,Kolkata,37
+BLK464,26-09-2024,Sugar,Grocery,447.56,5,2237.8,Chennai,56
+BLK465,08-01-2024,Toothpaste,Personal Care,304.91,4,1219.64,Chennai,54
+BLK466,18-12-2024,Toothpaste,Personal Care,218.86,2,437.72,Delhi,58
+BLK467,25-05-2024,Tea,Beverages,463.64,4,1854.56,Bangalore,47
+BLK468,04-12-2024,Chocolates,Snacks,262.47,2,524.94,Chennai,54
+BLK469,23-11-2024,Chips,Snacks,264.51,4,1058.04,Hyderabad,29
+BLK470,09-11-2024,Cookies,Snacks,150.66,2,301.32,Hyderabad,55
+BLK471,21-07-2024,Biscuits,Snacks,124.14,3,372.42,Chennai,54
+BLK472,06-11-2024,Soft Drink,Beverages,405,1,405,Delhi,49
+BLK473,28-04-2024,Chips,Snacks,123.25,2,246.5,Kolkata,26
+BLK474,16-01-2024,Handwash,Personal Care,76.86,1,76.86,Bangalore,17
+BLK475,27-12-2024,Salt,Grocery,116.01,4,464.04,Mumbai,50
+BLK476,08-11-2024,Shampoo,Personal Care,366.26,5,1831.3,Chennai,40
+BLK477,02-10-2024,Handwash,Personal Care,484.86,5,2424.3,Kolkata,38
+BLK478,02-09-2024,Rice,Grocery,59.92,4,239.68,Kolkata,51
+BLK479,17-02-2024,Wheat Flour,Grocery,72.58,5,362.9,Hyderabad,47
+BLK480,04-04-2024,Tea,Beverages,72.65,2,145.3,Delhi,59
+BLK481,25-06-2024,Soft Drink,Beverages,258.35,5,1291.75,Delhi,38
+BLK482,23-05-2024,Tea,Beverages,466.78,3,1400.34,Delhi,24
+BLK483,03-07-2024,Shampoo,Personal Care,233.3,3,699.9,Hyderabad,40
+BLK484,07-09-2024,Face Wash,Personal Care,170.4,4,681.6,Chennai,22
+BLK485,17-08-2024,Biscuits,Snacks,269.68,5,1348.4,Mumbai,41
+BLK486,22-03-2024,Biscuits,Snacks,281.65,4,1126.6,Bangalore,44
+BLK487,09-12-2024,Wheat Flour,Grocery,72.39,2,144.78,Chennai,47
+BLK488,14-12-2024,Sugar,Grocery,208.08,1,208.08,Hyderabad,47
+BLK489,17-11-2024,Shampoo,Personal Care,318.87,5,1594.35,Hyderabad,30
+BLK490,14-07-2024,Handwash,Personal Care,117.08,5,585.4,Bangalore,39
+BLK491,09-09-2024,Cookies,Snacks,83.8,1,83.8,Chennai,30
+BLK492,31-08-2024,Biscuits,Snacks,139.78,5,698.9,Mumbai,56
+BLK493,30-06-2024,Sugar,Grocery,243.77,1,243.77,Mumbai,19
+BLK494,29-06-2024,Wheat Flour,Grocery,167.83,5,839.15,Chennai,53
+BLK495,14-11-2024,Biscuits,Snacks,174.49,3,523.47,Chennai,29
+BLK496,13-06-2024,Chocolates,Snacks,252.47,2,504.94,Mumbai,58
+BLK497,20-08-2024,Toothpaste,Personal Care,406.67,1,406.67,Bangalore,50
+BLK498,05-05-2024,Pulses,Grocery,366.93,1,366.93,Hyderabad,23
+BLK499,30-06-2024,Namkeen,Snacks,338.93,3,1016.79,Mumbai,19
+BLK500,22-06-2024,Coffee,Beverages,419.49,2,838.98,Delhi,29
