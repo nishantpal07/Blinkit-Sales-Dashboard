@@ -65,8 +65,3 @@ This project analyzes Blinkit’s sales data to identify key insights and trends
 - [View Project on GitHub](https://github.com/your-nishantpal07/Blinkit-Sales-Dashboard)
 
 ---
-
-## 📧 **Contact Me**  
-📩 Email: your-email@example.com  
-📱 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
