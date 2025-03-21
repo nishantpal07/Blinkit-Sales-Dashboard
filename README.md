@@ -48,7 +48,8 @@ This project analyzes Blinkit’s sales data to identify key insights and trends
 ---
 
 ## 📸 **Dashboard Screenshot**
-![Blinkit Sales Dashboard]("C:\Users\Nishant\Desktop\dashboard_screenshot.png")
+
+![dashboard_screenshot](https://github.com/user-attachments/assets/053492ed-2ff6-44f5-9fef-5b77f69ecb03)
 
 ---
 
