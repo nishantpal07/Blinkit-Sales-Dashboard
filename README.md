@@ -62,7 +62,7 @@ This project analyzes Blinkit’s sales data to identify key insights and trends
 ---
 
 ## 🔗 **GitHub Repository Link**
-- [View Project on GitHub](https://github.com/your-username/Blinkit-Sales-Dashboard)
+- [View Project on GitHub](https://github.com/your-nishantpal07/Blinkit-Sales-Dashboard)
 
 ---
 
